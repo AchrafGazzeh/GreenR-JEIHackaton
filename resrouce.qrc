@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="a">
+    <file>greenr.png</file>
+    <file>backround.jpg</file>
+    <file>plus1.png</file>
+    <file>plastic.png</file>
+    <file>paper.png</file>
+  </qresource>
+</RCC>
